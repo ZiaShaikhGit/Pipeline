@@ -15,7 +15,7 @@ namespace pipeline
     {
         public Startup(IConfiguration configuration)
         {
-            //New Commit to git hub for build
+            //New Commit to git hub for build, ready for next run
             Configuration = configuration;
         }
 
